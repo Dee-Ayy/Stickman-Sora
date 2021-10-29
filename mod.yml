@@ -314,7 +314,3 @@ assets:
     method: copy
     source:
     - name: obj/P_LK100.mdlx
-  - name: obj/H_EX640.mdlx
-    method: copy
-    source:
-    - name: obj/H_EX640.mdlx
